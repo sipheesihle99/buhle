@@ -1,0 +1,36 @@
+body{
+    background-image: linear-gradient(rgba(31, 31, 31, 0.6), rgba(14, 14, 14, 0.6)), url("./mzat.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 700px;
+    width: 100%
+}
+
+h2{
+    color: white;
+    font-size: 40px;
+    font-style: inherit;
+    font-family: serif;
+    padding: 20px 30px;
+    text-align: center;
+}
+
+h4{
+    color: white;
+    font-size: 20px;
+    font-style: inherit;
+    text-align: justify;
+}
+
+p{
+    color: white;
+    font-size: 20px;
+}
+
+ul li{
+    color: white;
+}
+
+ul li{
+    color: white;
+}
